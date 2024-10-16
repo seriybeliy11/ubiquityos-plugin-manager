@@ -1,0 +1,1 @@
+"# ubiquityos-plugin-manager" 
